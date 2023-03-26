@@ -1,0 +1,15 @@
+{
+    "name": "jinhui/ceshi",
+    "autoload": {
+        "psr-4": {
+            "jinhui": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jinhui",
+            "email": "644471937@qq.com"
+        }
+    ],
+    "require": {}
+}
