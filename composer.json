@@ -2,7 +2,7 @@
     "name": "jinhui/ceshi",
     "autoload": {
         "psr-4": {
-            "jinhui": "src/"
+            "jinhui\\": "src/"
         }
     },
     "authors": [
