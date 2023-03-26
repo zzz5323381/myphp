@@ -5,6 +5,8 @@
             "jinhui\\": "src/"
         }
     },
+    "license": "Apache-2.0",
+    "minimum-stability":"stable",
     "authors": [
         {
             "name": "jinhui",
